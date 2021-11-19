@@ -1,1 +1,1 @@
-Hi, I’m @KaixinAng, someone special enough to get bugged on a print hello world
+Hi, I’m @KaixinAng, someone special enough to get bugs on a print hello world
